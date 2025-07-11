@@ -1,4 +1,4 @@
-#🌎 Exercícios do Mundo 01:
+# 🌎 Exercícios do Mundo 01:
 - Exercício Python #001 - Deixando tudo pronto
 - Exercício Python #002 - Respondendo ao Usuário
 - Exercício Python #003 - Somando dois números
