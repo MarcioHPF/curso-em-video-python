@@ -1,0 +1,37 @@
+# 🌎 Exercícios do Mundo 02:
+- Exercício Python #036 - Aprovando Empréstimo
+- Exercício Python #037 - Conversor de Bases Numéricas
+- Exercício Python #038 - Comparando números
+- Exercício Python #039 - Alistamento Militar
+- Exercício Python #040 - Aquele clássico da média
+- Exercício Python #041 - Classificando Atletas
+- Exercício Python #042 - Analisador Triângulos v.2.0
+- Exercício Python #043 - Índice de Massa Corporal
+- Exercício Python #044 - Gerenciador de Pagamentos
+- Exercício Python #045 - GAME: Pedra, Papel e Tesoura
+- Exercício Python #046 - Contagem Regressiva
+- Exercício Python #047 - Contagem de pares
+- Exercício Python #048 - Soma ímpares múltiplos de três
+- Exercício Python #049 - Tabuada v.2.0
+- Exercício Python #050 - Soma dos pares
+- Exercício Python #051 - Progressão Aritmética
+- Exercício Python #052 - Números Primos
+- Exercício Python #053 - Detector de Palíndromo
+- Exercício Python #054 - Grupo de Maioridade
+- Exercício Python #055 - Maior e menor da sequência
+- Exercício Python #056 - Analisador completo
+- Exercício Python #057 - Validação de Dados
+- Exercício Python #058 - Jogo da Adivinhação v.2.0
+- Exercício Python #059 - Criando um Menu de Opções
+- Exercício Python #060 - Cálculo do Fatorial
+- Exercício Python #061 - Progressão Aritmética v.2.0
+- Exercício Python #062 - Super Progressão Aritmética
+- Exercício Python #063 - Sequência de Fibonacci v.1.0
+- Exercício Python #064 - Tratando vários valores v.1.0
+- Exercício Python #065 - Maior e Menor valores
+- Exercício Python #066 - Vários números com flag
+- Exercício Python #067 - Tabuada v.3.0
+- Exercício Python #068 - Jogo do Par ou Ímpar
+- Exercício Python #069 😏 - Análise de dados do grupo
+- Exercício Python #070 - Estatísticas em produtos
+- Exercício Python #071 - Simulador de Caixa Eletrônico
