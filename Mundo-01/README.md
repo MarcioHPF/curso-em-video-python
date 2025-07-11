@@ -1,0 +1,36 @@
+#🌎 Exercícios do Mundo 01:
+- Exercício Python #001 - Deixando tudo pronto
+- Exercício Python #002 - Respondendo ao Usuário
+- Exercício Python #003 - Somando dois números
+- Exercício Python #004 - Dissecando uma Variável
+- Exercício Python #005 - Antecessor e Sucessor
+- Exercício Python #006 - Dobro, Triplo, Raíz Quadrada
+- Exercício Python #007 - Média Aritmética
+- Exercício Python #008 - Conversor de Medidas
+- Exercício Python #009 - Tabuada
+- Exercício Python #010 - Conversor de Moedas
+- Exercício Python #011 - Pintando Parede
+- Exercício Python #012 - Calculando Descontos
+- Exercício Python #013 - Reajuste Salarial
+- Exercício Python #014 - Conversor de Temperaturas
+- Exercício Python #015 - Aluguel de Carros
+- Exercício Python #016 - Quebrando um número
+- Exercício Python #017 - Catetos e Hipotenusa
+- Exercício Python #018 - Seno, Cosseno, Tangente
+- Exercício Python #019 - Sorteando um item na lista
+- Exercício Python #020 - Sorteando uma ordem na lista
+- Exercício Python #021 - Tocando um MP3
+- Exercício Python #022 - Analisador de Texto
+- Exercício Python #023 - Separando dígitos de um número
+- Exercício Python #024 - Verificando as primeiras letras de um texto
+- Exercício Python #025 - Procurando uma string dentro de outra
+- Exercício Python #026 - Primeira e última ocorrência de uma string
+- Exercício Python #027 - Primeiro e último nome de uma pessoa
+- Exercício Python #028 - Jogo da Adivinhação v.1.0
+- Exercício Python #029 - Radar eletrônico
+- Exercício Python #030 - Par ou Ímpar?
+- Exercício Python #031 - Custo da Viagem
+- Exercício Python #032 - Ano Bissexto
+- Exercício Python #033 - Maior e menor valores
+- Exercício Python #034 - Aumentos múltiplos
+- Exercício Python #035 - Analisando triângulo v.1.0
