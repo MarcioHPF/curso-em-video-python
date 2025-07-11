@@ -1,7 +1,7 @@
 # Python CursoEmVideo
 Repositório feito para guardar e compartilhar a resolução dos exercícios propostos pelo professor Gustavo Guanabara no canal Curso Em Vídeo do YouTube. As aulas foram divididas em três "mundos" onde ensinam a linguagem Python em diferentes níveis.
 ---
-# Mundo 1: Nível Introdutório
+# 🌎 Mundo 1: Nível Introdutório
 - Tipos Primitivos e Saída de Dados
 - Operadores Aritméticos
 - Utilizando Módulos
@@ -10,14 +10,14 @@ Repositório feito para guardar e compartilhar a resolução dos exercícios pro
 - Cores no Terminal
 
 ---
-# Mundo 2: Nível Iniciante
+# 🌎 Mundo 2: Nível Iniciante
 - Condições Aninhadas
 - Estruturas de Repetição (for)
 - Estruturas de Repetição (while)
 - Interrompendo Repetições do Tipo While
 
 ---
-# Mundo 3: Intermediário
+# 🌎 Mundo 3: Intermediário
 - Tuplas
 - Listas
 - Dicionários
