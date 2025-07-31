@@ -14,4 +14,7 @@ if num < 20:
 else:
     dezena = num // 10
     unidade = num % 10
-    print(f'Você digitou o número {dezenas[dezena-2]} e {numeros[unidade]}')
+    if unidade == 0:
+        print(f'Você digitou o número {dezenas[dezena - 2]}')
+    else:
+        print(f'Você digitou o número {dezenas[dezena - 2]} e {numeros[unidade]}')
