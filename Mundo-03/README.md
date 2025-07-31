@@ -1,5 +1,5 @@
 # 🌎 Exercícios do Mundo 03:
-- Exercício Python #072 - Números por Extenso
+- Exercício Python #072 - Números por Extenso (ampliado de 0-20 para 0-99)
 - Exercício Python #073 - Tuplas com Times de Futebol
 - Exercício Python #074 - Maior e menor valores em Tupla
 - Exercício Python #075 - Análise de dados em uma tupla
